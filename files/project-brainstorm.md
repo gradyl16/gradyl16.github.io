@@ -39,3 +39,6 @@
     - Confidence in email security
     - E.g. do you feel more secure browsing a desktop on a home network than a phone on a cellular network? etc
 - Something on open source intelligence
+- eConsent
+    - How expectations vary between physical and virtual agreements?
+        - Users are "forced" into accepting privacy agreements for third party applications they wish to use... potentially conditions them into exercising less scrutiny when reviewing online terms/agreements?
