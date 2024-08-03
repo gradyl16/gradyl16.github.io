@@ -27,7 +27,11 @@ I'm ecstatic to get started on some research in a subdomain I'm unfamiliar with 
 5. If time permits, obtain a dataset (whether through searching existing repositories or through generation) that contains phishing emails that were successful in deceiving their victim to facilitate a comparative examination of social engineering through email communication.
 6. Repeat milestones 2-4 on the new dataset, taking into account the additional burden of the comparative nature.
 
-[My Final Report](files/finalreport.pdf) (temporary link)
+### Update
+
+We ended up trying out several different avenues for an interesting project. We experimented with the above, a CAPTCHA collection and acceptance threshold testing idea, along with (finally) a two factor authentication log analysis project. In the end, we settled on the latter. While I wasn't able to complete a whole lot, it's totally okay! I got to try out different stuff in a space I'm not comfortable with, and that is plenty to gain from an experience like this. I ended up learning that usable security isn't really for me, but it's cool nonetheless!
+
+[My Final Report](files/paper.pdf) (temporary link)
 
 ## My Blog
 
